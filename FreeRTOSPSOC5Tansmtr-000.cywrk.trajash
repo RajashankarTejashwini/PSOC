@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\main.c">
+<ExpandedNodeIds>
+<v>FreeRTOSPSOC5Tansmtr-000</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\TopDesign</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\Pins</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\Analog</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\Clocks</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\Interrupts</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\DMA</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\System</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\Directives</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\Flash Security</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.cydwr\EEPROM</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\croutine.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\deprecated_definitions.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\event_groups.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\FreeRTOS.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\FreeRTOS_CLI.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\list.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\message_buffer.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\mpu_prototypes.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\mpu_wrappers.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\portable.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\portmacro.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\projdefs.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\queue.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\semphr.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\stack_macros.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\StackMacros.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\stream_buffer.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\task.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOS\timers.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\cyapicallbacks.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Header Files\FreeRTOSConfig.h</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\croutine.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\event_groups.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\FreeRTOS_CLI.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\heap_4.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\list.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\port.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\queue.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\stream_buffer.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\tasks.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\FreeRTOS\timers.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\main.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Source Files\RTOS_Start.c</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Generated_Source</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FreeRTOSPSOC5Tansmtr-000</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\TopDesign</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FreeRTOSPSOC5Tansmtr-000</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_Bypass.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_INT.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_IRQ.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_PM.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_theACLK.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\croutine.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\CyOneKhz.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\event_groups.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\FreeRTOS_CLI.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\heap_4.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\int_rx.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\LDR.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\list.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\PIR.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\port.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\queue.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\RTOS_Start.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\stream_buffer.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\tasks.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\timers.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\FreeRTOSPSOC5Tansmtr.elf</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\FreeRTOSPSOC5Tansmtr.hex</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CortexM3\ARM_GCC_541\Debug\FreeRTOSPSOC5Tansmtr.map</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.gpdsc</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr.rpt</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\FreeRTOSPSOC5Tansmtr_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>FreeRTOSPSOC5Tansmtr-000</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\PSoC 5LP Architecture TRM</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\CY8C58LP Family Datasheet</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\System Reference Guides</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\System Reference Guides\cy_boot_v5_60</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\ADC_SAR_v3_10.pdf</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\cy_isr_v1_70.pdf</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\cy_pins_v2_20</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>FreeRTOSPSOC5Tansmtr-000\FreeRTOSPSOC5Tansmtr\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds />
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Source\main.c" />
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\FreeRTOSPSOC5Tansmtr.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="965, 351" SelectedTabbedMdiWindow="4329bcc0-44f1-4cb4-bae1-6f9a7640b2d3"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="2bb2e384-649d-46ac-97ac-13e872d71c27" /><DocumentWindow Key="C:\Users\trajash\Documents\PSoC Creator\PSOC5-FreeRTOS-master\FreeRTOSPSOC5Tansmtr.cydsn\Source\main.c" Guid="4329bcc0-44f1-4cb4-bae1-6f9a7640b2d3" /><DocumentWindow Key="C:\Users\trajash\Documents\PSoC Creator\PSOC5-FreeRTOS-master\FreeRTOSPSOC5Tansmtr.cydsn\TopDesign\TopDesign.cysch" Guid="d1c5c729-c398-4d61-9d6b-dc8e7b11e2a6" /><DocumentWindow Key="C:\Users\trajash\Documents\PSoC Creator\PSOC5-FreeRTOS-master\FreeRTOSPSOC5Tansmtr.cydsn\FreeRTOSPSOC5Tansmtr.cydwr" Guid="e9fbb2bc-2364-481a-8028-4b1eeaee4182" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
